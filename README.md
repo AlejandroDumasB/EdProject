@@ -15,7 +15,8 @@ Forma de uso:
 
 - Expresiones con parentesis:
 
-expr = randExprFrac(...) //
+expr = randExprFrac(...)
+
 steps = resolverSteps_toString(expr)
 
 - Expresiones sin parentesis:
