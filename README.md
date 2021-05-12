@@ -1,8 +1,8 @@
 # Proyecto Jose/Cio
 
 Jefe: Jose Rodriguez
-Codigo: Alejandro Dumas
-        Rocio Campos
+
+Codigo: Alejandro Dumas, Rocio Campos
         
 # Expresiones
 
