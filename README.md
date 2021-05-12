@@ -13,10 +13,16 @@ representa un paso en la reduccion del problema original.
  
 Forma de uso:
 
-- expr = randExprFrac(...)
-- steps = resolverSteps_toString(expr)
+- Expresiones con parentesis:
 
-- expr = randomEcuation(...)
-- steps = solveEcuation_toString(expr)
+expr = randExprFrac(...)
+
+steps = resolverSteps_toString(expr)
+
+- Expresiones sin parentesis:
+
+expr = randomEcuation(...)
+
+steps = solveEcuation_toString(expr)
 
 En ambos casos, steps[0] contendra a la expresion original y steps[-1] contendra el resultado final
